@@ -39,11 +39,17 @@ done in Html, CSS and Javascript. We utilized the Django web framework for the b
 is a Python based framework and hosted the website locally to view and manipulate the data. We
 have pymysql to connect to the database from the python.
 
-Conceptional Design:
+Conceptual Design:
+
+![plot](./Images/Conceptual Design.PNG)
 
 Logical Design:
 
+![plot](./Images/Logical Design.PNG)
+
 User Flow:
+
+![plot](./Images/User Flow.PNG)
 
 Lessons Learned:
 1. Technical expertise gained
