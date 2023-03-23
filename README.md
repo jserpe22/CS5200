@@ -41,15 +41,15 @@ have pymysql to connect to the database from the python.
 
 Conceptual Design:
 
-![plot](./Images/Conceptual Design.PNG)
+![Alt text](/Images/Conceptual Design.PNG)
 
 Logical Design:
 
-![plot](./Images/Logical Design.PNG)
+![Alt text](/Images/Logical Design.PNG)
 
 User Flow:
 
-![plot](./Images/User Flow.PNG)
+![Alt text](/Images/User Flow.PNG)
 
 Lessons Learned:
 1. Technical expertise gained
