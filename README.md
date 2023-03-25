@@ -1,7 +1,7 @@
 # CS5200
 
 Project Description/Motivation:
-Over the past year a roommate of mine (Jason) has been working on a machine learning
+Over the past year a roommate of mine has been working on a machine learning
 application to predict the winner of soccer games using halftime data. The model, in conjunction
 with halftime betting odds, is used to determine profit/loss using a rolling bankroll over test data.
 I have helped in some aspects, and wanted to contribute in a more meaningful way than training
